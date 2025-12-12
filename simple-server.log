@@ -1,0 +1,12 @@
+🚀 Simple MCP server running on http://localhost:3001/mcp
+📋 Tool: getStateByCityName
+[2025-11-01T01:15:16.665Z] MCP Request: tools/call
+[2025-11-01T01:15:27.193Z] MCP Request: initialize
+[2025-11-01T01:15:27.199Z] MCP Request: initialized
+[2025-11-01T01:15:27.200Z] MCP Request: tools/list
+[2025-11-01T01:15:27.202Z] MCP Request: tools/call
+[2025-11-01T01:15:27.204Z] MCP Request: tools/call
+[2025-11-01T01:15:27.205Z] MCP Request: tools/call
+[2025-11-01T01:15:35.728Z] MCP Request: initialize
+[2025-11-01T01:15:35.738Z] MCP Request: initialized
+[2025-11-01T01:15:35.747Z] MCP Request: tools/call
